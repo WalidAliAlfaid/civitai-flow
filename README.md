@@ -1,35 +1,37 @@
 # ⚡ Civitai Flow
 
-> **The TikTok-Style Infinite AI Video Feed for Android & Windows Desktop**
+> **The TikTok & Instagram Client for Civitai (Videos & Images)**
 
 [![Platform: Android](https://img.shields.io/badge/Platform-Android%20APK-3DDC84?logo=android&logoColor=white)](https://civitaiflow.web.app)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2064--bit-0078D6?logo=windows&logoColor=white)](https://civitaiflow.web.app)
 [![Web Demo](https://img.shields.io/badge/Web-Live%20Demo-00f0ff)](https://civitaiflow.web.app)
-[![Release](https://img.shields.io/badge/Release-v1.0.0%20Stable-f43f5e)](https://github.com)
+[![Release](https://img.shields.io/badge/Release-v1.0.0%20Stable-f43f5e)](https://github.com/WalidAliAlfaid/civitai-flow/releases)
 [![License: Freeware](https://img.shields.io/badge/License-Freeware%20%2F%20Proprietary-yellow)](LICENSE)
 
-Civitai Flow is a dedicated, full-screen vertical swipe video client built specifically for AI video generations from [Civitai](https://civitai.com) (Wan 2.1, Kling, LTX Video, Hunyuan, Minimax).
+**Civitai Flow** brings a modern, fast, full-screen vertical swipe experience to [Civitai](https://civitai.com). Think of it as **TikTok meets Instagram, built specifically for Civitai videos and images.**
 
-Rather than browsing short-form videos in traditional desktop thumbnail grids, **Civitai Flow** delivers a native, 60fps vertical swipe experience tailored for mobile phones and desktop displays.
+Instead of browsing creative generations in desktop thumbnail grids, Civitai Flow delivers a dedicated, distraction-free visual feed on your **Android phone** and **Windows PC**.
 
 ---
 
-## 📸 Screenshots & Experience
+## 📸 Experience Preview
 
 <p align="center">
-  <img src="images/1_CivitaiFlow_Main_Feed_Experience.png" alt="Civitai Flow Main Feed" width="90%" />
+  <img src="images/4_CivitaiFlow_Mobile_Phone_Only.png" alt="Civitai Flow Mobile Stream" width="340" />
 </p>
 
 ---
 
-## ✨ Key Features
+## ✨ What Civitai Flow Offers
 
-* **📱 Infinite 60fps Vertical Swipe:** Ultra-smooth continuous media streaming with zero lag, instant loop playback, and watchdog auto-recovery.
-* **🔍 1-Tap Prompt & Model Inspector:** Tap `Prompt` on any video to instantly reveal the exact checkpoint model, LoRA tags, positive/negative prompts, CFG scale, and sampler. Includes 1-click prompt copying.
-* **❤️ Full Social Integration:** Like, reaction picker, comment drawer, creator bookmarking, and native **Buzz tipping** straight from the video.
-* **🔞 SFW vs. Civitai Red (18+) Switcher:** 1-tap header toggle between safe artistic showcases and unrestricted mature content.
-* **🎨 Ergonomic Studio:** Customize your controls for one-handed use: move buttons to the **Left** (for left-handed users), **Right**, **Split**, or **Bottom**, and choose custom button shapes (squircles, diamonds, neon pills).
-* **💾 Direct Downloads & Offline Caching:** Download uncompressed MP4s straight to your device downloads, or save watched clips locally for offline viewing.
+* **📱 Infinite Fullscreen Swipe:** Seamlessly swipe through top AI video creations and high-resolution images with zero lag and native 60fps streaming.
+* **🔑 Seamless Civitai Account Sign-In (No API Keys Needed):** Log into your standard Civitai account directly via secure web sign-in. Your account, profile, and community standing sync straight into the app.
+* **🔍 1-Tap Prompt & Model Inspector:** Tap `Prompt` on any post to inspect the exact model checkpoint, LoRAs, positive/negative prompts, CFG scale, and sampler. Includes a 1-click **Copy Prompt** button to take recipes directly to your own workflows.
+* **❤️ Complete Social Interaction:** Like, react, open comments, follow your favorite creators, save/bookmark to personal collections, and tip Buzz natively.
+* **🔞 1-Tap SFW & Civitai Red Switcher:** Instant header toggle between clean artistic showcases and unrestricted mature content.
+* **💾 Direct Downloads & Offline Caching:** Download high-res MP4s and original images directly to your device, or cache watched clips for offline viewing.
+* **🎨 Left & Right Hand Ergonomics:** Switch button placements for comfortable one-handed scrolling.
+* **🚀 Generation Coming on Demand:** Built for instant consumption and community discovery. If creators request built-in generation tools, we will expand to support generation workflows!
 
 ---
 
@@ -38,33 +40,25 @@ Rather than browsing short-form videos in traditional desktop thumbnail grids, *
 | Platform | Download Link | Type | Notes |
 | :--- | :--- | :--- | :--- |
 | **Android** | [Download CivitaiFlow.apk](https://civitaiflow.web.app/downloads/CivitaiFlow.apk) | Direct APK | Android 8.0+ |
-| **Windows Desktop** | [Download Civitai Portable.exe](https://civitaiflow.web.app/downloads/Civitai-Portable.exe) | Standalone Portable | No install required, just run |
-| **Windows Installer** | [Civitai Flow Setup](https://civitaiflow.web.app) | NSIS Installer | Desktop shortcuts & updater |
-| **Web & Demo Reel** | [civitaiflow.web.app](https://civitaiflow.web.app) | Live Web | 1:40 walkthrough demo |
+| **Windows Desktop** | [Download Civitai Portable.exe](https://civitaiflow.web.app/downloads/Civitai-Portable.exe) | Standalone Portable | No install required, just double-click |
+| **Windows Installer** | [Civitai Flow Setup](https://civitaiflow.web.app) | NSIS Installer | Full desktop installation |
+| **Live Web & Demo** | [civitaiflow.web.app](https://civitaiflow.web.app) | Web Portal | Watch the 1:40 video demo |
 
 ---
 
-## 🔒 Privacy & Security
+## 💡 Community Feature Requests & Bug Reports
 
-* **Zero Tracking:** Civitai Flow does not sell, track, or harvest user telemetry.
-* **Local API Keys:** If you enter your Civitai API Key to sync likes or tip Buzz, it is stored **exclusively in your local device's sandboxed storage** and is sent only to Civitai's official API endpoints.
-* **Anonymous Browsing:** You can watch infinite video streams completely anonymously without ever signing in or providing an account.
+Civitai Flow was built for the creator community:
+* Have an idea or want a feature added?
+* Found a bug or playback glitch?
 
----
-
-## 💡 Feature Requests & Bug Reports
-
-We love hearing from the community! 
-* Want a new filter, custom model categories, or a specific feature?
-* Found a bug or playback issue?
-
-👉 **[Submit a Feature Request or Issue](https://github.com)**
+👉 **[Submit a Feature Request or Report a Bug](https://github.com/WalidAliAlfaid/civitai-flow/issues)**
 
 ---
 
 ## ⚖️ Disclaimer
 
-Civitai Flow is an independent community project developed out of passion for generative AI video. Civitai and its respective logos, branding, and API services are trademarks and property of Civitai Inc. This project is not officially affiliated with or endorsed by Civitai Inc.
+Civitai Flow is an independent community project developed out of passion for generative AI video and imagery. Civitai and its respective logos, branding, and services are property of Civitai Inc.
 
 ---
 
