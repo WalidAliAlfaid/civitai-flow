@@ -56,6 +56,25 @@ Civitai Flow was built for the creator community:
 
 ---
 
+## ☕ Support the Developer
+
+Civitai Flow is 100% free and independent. If you enjoy the app and want to support ongoing hosting, updates, and new features, tips are deeply appreciated!
+
+### **USDT (Tether) — BNB Smart Chain (BEP-20)**
+* **Network:** `BNB Smart Chain (BEP-20)`
+* **Wallet Address:**
+  ```text
+  0x8f90dCf4bE34e95c87527612b7da440ef99d8EB5
+  ```
+
+<p align="left">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=0x8f90dCf4bE34e95c87527612b7da440ef99d8EB5&color=000000&bgcolor=ffffff&margin=1" alt="USDT BEP-20 QR Code" width="150" height="150" />
+</p>
+
+> ⚠️ *Please ensure you select **BNB Smart Chain (BEP-20)** when sending USDT.*
+
+---
+
 ## ⚖️ Disclaimer
 
 Civitai Flow is an independent community project developed out of passion for generative AI video and imagery. Civitai and its respective logos, branding, and services are property of Civitai Inc.
