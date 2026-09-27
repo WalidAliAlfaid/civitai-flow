@@ -2,13 +2,27 @@
 
 > **The TikTok & Instagram Client for Civitai (Videos & Images)**
 
-[![Platform: Android](https://img.shields.io/badge/Platform-Android%20APK-3DDC84?logo=android&logoColor=white)](https://civitaiflow.web.app)
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2064--bit-0078D6?logo=windows&logoColor=white)](https://civitaiflow.web.app)
-[![Web Demo](https://img.shields.io/badge/Web-Live%20Demo-00f0ff)](https://civitaiflow.web.app)
-[![Release](https://img.shields.io/badge/Release-v1.0.0%20Stable-f43f5e)](https://github.com/WalidAliAlfaid/civitai-flow/releases)
-[![License: Freeware](https://img.shields.io/badge/License-Freeware%20%2F%20Proprietary-yellow)](LICENSE)
+<p align="center">
+  <img src="images/civitai_article_cover_850x400_retina.png" alt="Civitai Flow Banner" width="100%" style="border-radius: 12px;" />
+</p>
 
-**Civitai Flow** brings a modern, fast, full-screen vertical swipe experience to [Civitai](https://civitai.com). Think of it as **TikTok meets Instagram, built specifically for Civitai videos and images.**
+<p align="center">
+  <a href="https://civitaiflow.web.app"><img src="https://img.shields.io/badge/Platform-Android%20APK-3DDC84?logo=android&logoColor=white" alt="Platform: Android" /></a>
+  <a href="https://civitaiflow.web.app"><img src="https://img.shields.io/badge/Platform-Windows%2064--bit-0078D6?logo=windows&logoColor=white" alt="Platform: Windows" /></a>
+  <a href="https://civitaiflow.web.app"><img src="https://img.shields.io/badge/Web-Live%20Demo-00f0ff" alt="Web Demo" /></a>
+  <a href="https://github.com/WalidAliAlfaid/civitai-flow/releases"><img src="https://img.shields.io/badge/Release-v1.0.0%20Stable-f43f5e" alt="Release" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Freeware%20%2F%20Open-yellow" alt="License" /></a>
+</p>
+
+---
+
+Love Civitai, but watching videos on the web is kind of painful.
+
+You spend more time clicking in and out of pages than actually enjoying the art. It’s hard to relax and get immersed when you're trapped in a desktop browser.
+
+I wanted something smooth, clean, and instant where you just swipe from one full-screen video to the next.
+
+So I made **Civitai Flow** (Android & Windows): **TikTok & Instagram meets Civitai, exclusively for Civitai.**
 
 Instead of browsing creative generations in desktop thumbnail grids, Civitai Flow delivers a dedicated, distraction-free visual feed on your **Android phone** and **Windows PC**.
 
@@ -22,43 +36,41 @@ Instead of browsing creative generations in desktop thumbnail grids, Civitai Flo
 
 ---
 
-## ✨ What Civitai Flow Offers
+## ✨ What Civitai Flow Delivers
 
-* **📱 Infinite Fullscreen Swipe:** Seamlessly swipe through top AI video creations and high-resolution images with zero lag and native 60fps streaming.
-* **🔑 Seamless Civitai Account Sign-In (No API Keys Needed):** Log into your standard Civitai account directly via secure web sign-in. Your account, profile, and community standing sync straight into the app.
-* **🔍 1-Tap Prompt & Model Inspector:** Tap `Prompt` on any post to inspect the exact model checkpoint, LoRAs, positive/negative prompts, CFG scale, and sampler. Includes a 1-click **Copy Prompt** button to take recipes directly to your own workflows.
-* **❤️ Complete Social Interaction:** Like, react, open comments, follow your favorite creators, save/bookmark to personal collections, and tip Buzz natively.
-* **🔞 1-Tap SFW & Civitai Red Switcher:** Instant header toggle between clean artistic showcases and unrestricted mature content.
-* **💾 Direct Downloads & Offline Caching:** Download high-res MP4s and original images directly to your device, or cache watched clips for offline viewing.
-* **🎨 Left & Right Hand Ergonomics:** Switch button placements for comfortable one-handed scrolling.
-* **🚀 Generation Coming on Demand:** Built for instant consumption and community discovery. If creators request built-in generation tools, we will expand to support generation workflows!
+* 📱 **Fullscreen Video & Image Stream:** Built from the ground up to view AI videos and high-resolution images in fluid 60fps fullscreen. Seamlessly swipe vertically with instant playback, crystal-clear detail, and zero browser lag.
+* ✨ **Feeds for Every Mood:**
+  * **For You Feed:** Personalized discovery tailored to the styles, visuals, and animations you enjoy most.
+  * **Trending Feed:** Catch the hottest videos and images blowing up across the Civitai community right now.
+  * **Following Feed:** An uninterrupted stream dedicated strictly to the creators and artists you follow.
+* 🔖 **Saves & Civitai Collection Sync:** 1-tap bookmark any video or image into your personal library, and seamlessly sync your saves with your existing Civitai collections. You can also bring in your Civitai collections directly to help the app understand your taste, keeping your favorites organized and available offline.
+* 🧠 **Smart "For You" Recommendation Algorithm:** Civitai Flow doesn't just shuffle random posts—it learns what you love. The algorithm analyzes your watch time, likes, prompt inspections, and imported Civitai collections in real time. The more you swipe, the better it gets at serving the exact art styles, aesthetics, and video genres tailored specifically to you.
+* ❤️ **Native Community Interaction & Earn Buzz:** Like, react, open comment threads, follow creators, and tip Buzz straight from the post. Because it connects directly with your Civitai account, your engagement counts just like on the official website, meaning you can earn your Buzz simply by reacting and interacting with posts in the app!
+* 🔍 **1-Tap Prompt Inspector:** Tap `Prompt` on any post to inspect the exact model checkpoint, LoRAs, positive/negative prompts, CFG scale, and sampler. Includes a 1-click **Copy Prompt** button to take recipes directly to your own workflows.
+* 🔞 **SFW vs. Civitai Red Switcher:** Instant 1-tap header toggle between clean artistic showcases and unrestricted mature content.
+* ⬇️ **Direct MP4 & Image Downloads:** Save raw high-res videos and original images directly to your device with one click.
+
+> *(Note: Currently focused 100% on discovery and consumption. If you want built-in generation tools added, leave a comment or issue and I will build generation workflows into future updates!)*
 
 ---
 
-## 📥 Downloads & Installation
+## 📥 Try It & Downloads
 
 | Platform | Download Link | Type | Notes |
 | :--- | :--- | :--- | :--- |
-| **Android** | [Download CivitaiFlow.apk](https://civitaiflow.web.app/downloads/CivitaiFlow.apk) | Direct APK | Android 8.0+ |
-| **Windows Desktop** | [Download Civitai Portable.exe](https://civitaiflow.web.app/downloads/Civitai-Portable.exe) | Standalone Portable | No install required, just double-click |
-| **Windows Installer** | [Civitai Flow Setup](https://civitaiflow.web.app) | NSIS Installer | Full desktop installation |
-| **Live Web & Demo** | [civitaiflow.web.app](https://civitaiflow.web.app) | Web Portal | Watch the 1:40 video demo |
+| 📱 **Android** | [Download CivitaiFlow.apk](https://civitaiflow.web.app/downloads/CivitaiFlow.apk) | Direct APK | Android 8.0+ |
+| 💻 **Windows Desktop** | [Download Civitai Portable.exe](https://civitaiflow.web.app/downloads/Civitai-Portable.exe) | Standalone Portable | No installation required, just double-click |
+| 🌐 **Website Portal** | [civitaiflow.web.app](https://civitaiflow.web.app) | Web Portal | Live download hub & info |
+| 🎬 **Quick 1:40 Video Demo** | [Watch Walkthrough](https://civitaiflow.web.app/#demo) | Video Walkthrough | Watch how it works right in your browser! |
 
 ---
 
-## 💡 Community Feature Requests & Bug Reports
+## 💡 Community Feature Requests & Support
 
-Civitai Flow was built for the creator community:
-* Have an idea or want a feature added?
-* Found a bug or playback glitch?
+I built this for the community out of pure passion for generative art.
 
-👉 **[Submit a Feature Request or Report a Bug](https://github.com/WalidAliAlfaid/civitai-flow/issues)**
-
----
-
-## ☕ Support the Developer
-
-Civitai Flow is 100% free and independent. If you enjoy the app and want to support ongoing hosting, updates, and new features, tips are deeply appreciated!
+* 👉 **Want new features or filters?** [Open an Issue / Feature Request](https://github.com/WalidAliAlfaid/civitai-flow/issues) or leave a comment on the Civitai article, and I will build them!
+* 🟣 **Support the Project:** If you enjoy the app, you can support ongoing hosting and development via the crypto tip jar:
 
 ### **USDT (Tether) — BNB Smart Chain (BEP-20)**
 * **Network:** `BNB Smart Chain (BEP-20)`
@@ -72,6 +84,18 @@ Civitai Flow is 100% free and independent. If you enjoy the app and want to supp
 </p>
 
 > ⚠️ *Please ensure you select **BNB Smart Chain (BEP-20)** when sending USDT.*
+
+---
+
+## 💌 Open Note to the Civitai Team
+
+I built this out of pure love and passion for Civitai.
+
+If you like this concept, **it is completely yours**: You are welcome to adopt it, brand it officially, add your own ads, or integrate it into Civitai however you see fit.
+
+If you want someone to manage it, push updates, fix issues, and build whatever new features you need, **I will happily do all the work for free**.
+
+If you feel this conflicts with your roadmap or you don't want it online, just say the word and I will take it down immediately with no questions asked.
 
 ---
 
